@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominikbogielczyk&label=Profile%20views&color=0e75b6&style=flat" alt="dominikbogielczyk" /> </p>
 
-- 🔭 I’m currently working on [portable little console](https://github.com/DominikBogielczyk/Portable-little-console) and [remote controlled LED Matrix](https://github.com/DominikBogielczyk/LED-Matrix-Remote-Control)
+- 🔭 I’m currently working on [portable little console](https://github.com/DominikBogielczyk/Portable-little-console), [remote controlled LED Matrix](https://github.com/DominikBogielczyk/LED-Matrix-Remote-Control) and I'm [learning OpenCV](https://github.com/DominikBogielczyk/OpenCV) 
 
 - 🌱 I’m currently learning **Python, STM32 and PLC programming** 
 - :soccer: My hobby is sport, especially football, I am a fan of Lech Poznań and FC Barcelona 
