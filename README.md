@@ -14,4 +14,4 @@
 
 <br /> <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikbogielczyk&show_icons=true&locale=en&layout=compact&hide=Assembly,QMake" alt="dominikbogielczyk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominikbogielczyk&show_icons=true&locale=en&layout=compact&hide=Assembly,c,QMake" alt="dominikbogielczyk" /></p>
